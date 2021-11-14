@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "web server for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdkn104/webServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdkn104/webServer/issues"
+  },
+  "homepage": "https://github.com/sdkn104/webServer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
